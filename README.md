@@ -2,7 +2,7 @@
 
 ##### The commands used in this are :-
 1. `git clone : clones the remote repo locally`
-2..`git checkout : switching between branches`
+2. `git checkout : switching between branches`
 3. `git branch : checking all the branches name and the one we are in`
 4. `git commit : commit the changes`
 5. `git log : check commits`
