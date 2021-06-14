@@ -13,3 +13,4 @@
 10. `git push origin --delete <remoteBranchName> : delete branch remotely`
 11. `git tag <relases_version> : used to mark version release`
 12. `git push origin <relases_version> : pushes relases_version to remote branch`
+13. `git restore -staged <filename> : unstage staged files`
